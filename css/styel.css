@@ -1,0 +1,70 @@
+/* start form  */
+body {
+    background-color: #ebebeb;
+    font-family: "Poppins";
+}
+
+.form .form-group {
+    background-color: #fff;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 300px;
+    border-radius: 20px;
+}
+
+.form .form-group .h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 17px;
+    font-weight: 900;
+    font-size: 30px;
+    color: #d40202;
+}
+
+.form .form-group .user-name h2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.form .form-group .user-name #username {
+    margin-left: 220px;
+    width: 300px;
+    height: 25px;
+    margin-bottom: 10px;
+    color: #d40202;
+}
+.form .form-group .user-name #password {
+    margin-left: 220px;
+    width: 300px;
+    height: 25px;
+    margin-bottom: 25px;
+}
+.form .form-group span {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 60px;
+}
+.form .form-group .button {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 200px;
+    margin-left: 220px;
+}
+.form .form-group .button button {
+    background-color: #d40202;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    margin-bottom: 100px;
+    text-decoration: none;
+}
+.form .form-group .button a {
+    text-decoration: none;
+    color: white;
+}
+/* end form  */
